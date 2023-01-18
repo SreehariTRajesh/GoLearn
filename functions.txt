@@ -1,0 +1,6 @@
+The keyword func is used to declare a function
+A function can optionally be bound to a specific type 
+This is called a reciever
+funcname is the name of your function
+:w
+
